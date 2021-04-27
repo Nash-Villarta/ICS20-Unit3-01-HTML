@@ -1,0 +1,18 @@
+.titlestart {
+  color: goldenrod;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sentence {
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.first {
+  list-style: outside;
+  color: blue;
+}
+
+.table, th, td {
+  border:1px;
+}
